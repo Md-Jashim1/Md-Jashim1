@@ -16,12 +16,12 @@
 
 ## 📊 GitHub Stats :
 
-<img height=170 style="margin-right: 10px" src="https://streak-stats.demolab.com/?user=wasim-akram-dev&theme=dark" alt="Wasim Akram's GitHub Streak" /> <img height=170 src="https://github-readme-stats.vercel.app/api?username=wasim-akram-dev&theme=dark&show_icons=true" alt="Wasim Akram's GitHub stats" />
+<img height=170 style="margin-right: 10px" src="https://streak-stats.demolab.com/?user=Md-Jashim1&theme=dark" alt="Md Jashim's GitHub Streak" /> <img height=170 src="https://github-readme-stats.vercel.app/api?username=Md-Jashim1&theme=dark&show_icons=true" alt="Md Jashim's GitHub stats" />
 
 ## 🏆 GitHub Profile Trophies :
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=wasim-akram-dev&theme=dracula&margin-w=15)](https://github.com/wasim-akram-dev/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Md-Jashim1&theme=dracula&margin-w=15)](https://github.com/Md-Jashim1/github-profile-trophy)
 
-<img height=250 style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasim-akram-dev&theme=dark" alt="Wasim Akram's Language stats" /> <img height=250  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasim-akram-dev&theme=dark&layout=donut-vertical" alt="Wasim Akram's Language stats" />
+<img height=250 style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Jashim1&theme=dark" alt="Md Jashim's Language stats" /> <img height=250  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Jashim1&theme=dark&layout=donut-vertical" alt="Md Jashim's Language stats" />
 
 ![Programming Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)
